@@ -1,0 +1,18 @@
+current directory: /Users/szczepan/github/student/ruby-berry/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.2.1/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/szczepan/github/student/ruby-berry/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230412-2704-dtlf8b sitelibdir\=./.gem.20230412-2704-dtlf8b clean
+
+current directory: /Users/szczepan/github/student/ruby-berry/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230412-2704-dtlf8b sitelibdir\=./.gem.20230412-2704-dtlf8b
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/szczepan/github/student/ruby-berry/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230412-2704-dtlf8b sitelibdir\=./.gem.20230412-2704-dtlf8b install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20230412-2704-dtlf8b/skiptrace/internal
+
+current directory: /Users/szczepan/github/student/ruby-berry/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230412-2704-dtlf8b sitelibdir\=./.gem.20230412-2704-dtlf8b clean

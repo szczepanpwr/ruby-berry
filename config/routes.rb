@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  resources :posts
+  resources :topics
+  resources :courses
+  resources :students
   # root "static#index"
   # get "/time", to: "time#index"
   post "/message", to: "message#write"
