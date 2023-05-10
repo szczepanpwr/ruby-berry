@@ -72,3 +72,7 @@ group :test do
 end
 
 gem "rails-erd", "~> 1.7"
+
+gem "bootstrap", "~> 5.2"
+
+gem "devise", "~> 4.9"
