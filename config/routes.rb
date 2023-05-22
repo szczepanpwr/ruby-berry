@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get '/contact_us', to: "contact#contact_us"
   devise_for :users
   resources :articles
   resources :posts
